@@ -9,7 +9,7 @@ static const char kFirebaseFingerprint[] = "";
 
 04:E0:BD:B0:F8:63:22:3C:3A:19:7D:92:B6:79:2A:44:BF:77:FC:DA //2023-02
 
-# declared pin mode
+# Declared pinMode
 
 D0 = 16;
 D1 = 5;
@@ -23,4 +23,4 @@ D8   = 15;
 
 <hr>
 
-<center>©2023 Alex Lanka Developers All Rights Reserved</center >
+©2023 Alex Lanka Developers All Rights Reserved
